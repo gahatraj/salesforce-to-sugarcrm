@@ -1,1 +1,1 @@
-# NodeJS Script for Migration Salesforce data to SugarCRM
+# NodeJS script for migration Salesforce data to SugarCRM
